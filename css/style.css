@@ -1,0 +1,10 @@
+.navCustom{background-color:#373A3C !important;}
+.navCustom a{color:white !important;
+padding:0px 0px 0px 20px;}
+.jumboCustom img{
+    margin: 0 auto;
+max-height:300px;}
+span{color:rgb(37, 78, 131);}
+.cardCustom img{max-width:400px;
+min-width:200px;}
+.rowCustom img{max-width:400px;}
