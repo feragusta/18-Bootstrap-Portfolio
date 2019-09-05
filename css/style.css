@@ -1,13 +1,15 @@
 .navCustom{background-color:#373A3C !important;}
 .navCustom a{color:white !important;
 padding:0px 0px 0px 20px;}
+.jumbotron{background-color:rgb(255, 255, 255) !important;}
+.jumboCustom h1{font-size:24px !important;}
 .jumboCustom img{
     margin: 0 auto;
 max-height:300px;}
 span{color:rgb(37, 78, 131);}
-.cardCustom img{max-width:400px;
-min-width:200px;}
-.rowCustom img{max-width:400px;}
+.rowCustom img{
+    max-width:400px;
+    max-height:250px;}
 .footer{
     background-color:rgb(109, 109, 109);
     margin-top:100px;
